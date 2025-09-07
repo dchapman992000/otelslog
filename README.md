@@ -7,7 +7,7 @@ I put this into a repository because I was using the otel slog logging bridge bu
 
 ```
 import (
-    newslogin "github.com/dcatwoohoo/otelslog"
+    newslogin "github.com/dchapman992000/otelslog"
 )
 
 func main() {
